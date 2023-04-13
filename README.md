@@ -1,6 +1,7 @@
 # maps_app
 
-A new Flutter project.
+Projeto em flutter, que é integrado com a api_lc.
+Joga PG, será um app que vai possibilitar pessoas marcarem jogos em campos/quadras/cancha de areia que sejam públicos pela cidade, neste caso é focado em Ponta Grossa
 
 ## Getting Started
 
